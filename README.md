@@ -1,4 +1,4 @@
-groupe en pair learning kamus & Fadia
+groupe en pair programming kamus & Fadia
 
 Test First Ruby -- RSpec 3 Edition
 ==========
