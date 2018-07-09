@@ -1,3 +1,5 @@
+groupe en pair learning kamus & Fadia
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
